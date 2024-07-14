@@ -5,7 +5,7 @@ function about(){
         <>
            <div className='max-w-[100vw] md:px-[80px] py-40 flex mx-auto md:flex-row flex-col' id="about">
       <div className='basis-[45%]'>
-        <img className='w-full h-full' src="src\assets\team-removebg-preview.png" alt="" />
+        <img className='w-full h-full' src="https://img.freepik.com/free-vector/brainstorming-concept-landing-page_23-2148303748.jpg?t=st=1720937521~exp=1720941121~hmac=13516262fb51e989c8d4974e1195fbb5d3741bdcfa54d3447829afb15217dcfe&w=1060" alt="" />
       </div>  
       <div className='basis-[55%] mx-auto text-center flex pl-4 ml-3'>
         <div>
