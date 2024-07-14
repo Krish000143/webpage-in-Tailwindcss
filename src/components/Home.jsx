@@ -11,7 +11,7 @@ return(
 
          </div>
       <div className=''>
-        <img className='md:h-full md:w-full md:max-w-full sm:none' src='https://pngtree.com/freepng/a-red-headphone_15829383.html'></img>
+        <img className='md:h-full md:w-full md:max-w-full sm:none' src='src="src\assets\Beautiful_gaming_headphone_-5-removebg-preview.png"'></img>
       </div>
     </div>
     </>
